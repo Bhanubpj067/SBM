@@ -1,0 +1,92 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+
+  
+  padding: 30px 0;
+	margin: 40px;
+
+  background-image: url("https://sbmgroup.in/wp-content/uploads/2020/12/SBM-Logo-1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+  font-size: 32px;
+  font-family: Georgia, serif; 
+   color: rgb(204, 60, 50);
+
+  
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+
+
+
+
+.hero {
+	padding: 400px 0;
+	margin: 40px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("https://new-img.patrika.com/upload/2021/06/04/bhomraj.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #020202;
+
+  
+
+
+
+}
+
+.A {
+  color: #1327df;
+
+}
+
+
+
+
+
+
+p {
+  font-size: 2rem;
+}
+
+.hero a {
+	color: #08042c;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#footer {
+  font-size: 0.75rem;
+
+}
+
+
+
+
+.contact-btn a {
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid #204156;
+  
+  }
+  
+  .contact-btn a {
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid #204156;
+    position: relative;
+  }
+  
+  
